@@ -1,1 +1,1 @@
-SELECT * from my_test_table WHERE field = 'MATTHEW'
+SELECT * from my_test_table WHERE field = 'KATIE'
